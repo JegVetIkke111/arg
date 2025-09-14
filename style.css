@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: rgb(143, 16, 16);
+}
+
+.message {
+    margin-top: 10000px;
+}
